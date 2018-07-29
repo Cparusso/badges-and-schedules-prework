@@ -29,4 +29,5 @@ def printer(attendees)
 
   assign_rooms.each do |assignment|
     puts assignment
+  end
 end
