@@ -22,4 +22,4 @@ def assign_rooms(attendees)
   list
 end
 
-def conference_badges
+def printer
